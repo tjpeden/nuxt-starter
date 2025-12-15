@@ -2,7 +2,12 @@
   <div>
     <UHeader>
       <template #title>
-        <NuxtImg src="~/assets/images/nuxt-starter-logo.png" alt="Your Logo" class="h-12 my-1" />
+        <NuxtImg
+          src="/nuxt-starter-logo.png"
+          alt="Your Logo"
+          height="48"
+          class="my-1"
+        />
       </template>
 
       <template #right>
