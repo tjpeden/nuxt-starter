@@ -2,7 +2,7 @@
   <UPage>
     <UPageBody>
       <UPageHero
-        title="Tango's Nuxt Starter"
+        title="TJ's Nuxt Starter"
         description="A modern starter template for building Nuxt 4 applications."
       />
       <UPageSection
