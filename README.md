@@ -1,4 +1,4 @@
-# Nuxt Minimal Starter
+# TJ's Nuxt Starter
 
 ![Nuxt Starter](app/assets/images/nuxt-starter.png)
 
